@@ -1,7 +1,7 @@
 # ProjectTwo
-# Rooster Booster
+# Catch The Creep
 
-An application that the user ('the manager') schedules an event for anyone of their choosing to participate.
+An application that the user update an entry on a bad or violent date to prevent others from danger in the future. 
 
 ## Screenshots
 Include a one or two screenshots of main UI/UX points of your app and how it solves a problem
@@ -15,11 +15,6 @@ You can give a brief listing of the technologies you've learned and applied here
 - Sequelize
 
 ## Getting Started
-
-https://rooster-booster.herokuapp.com/
-
-![Screenshot](/public/assets/screenshot/Index_Screenshot.png?raw=true)
-Home page of app
 
 ### Prerequisities
 
@@ -41,13 +36,6 @@ Home page of app
 * Sublime Test
 * MySQL Workbench
 * Heroku
-
-## Authors
-    
-  *  Stefanie Ding -     - [StefanieDing](https://github.com)
-  *  Gerardo Mestanza -  - [Gmes23](http://github.com)
-  *  Matthew Mandel -  -   [3786matt](http://github.com) 
-  *  Kevin Ding - -        [kmding](http://github.com)
 
 ## Acknowledgments
 
